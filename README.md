@@ -4,6 +4,9 @@
 
 I am a dedicated Junior SQA Engineer passionate about delivering reliable, bug-free, and high-performance software. Experienced in designing test cases, executing functional, regression, and performance testing, and automating workflows using Playwright and Postman
 
+<p align="center">
+  <img src="assets/qa-hero.gif" alt="Animated QA network with API, Playwright, Jira, and CI/CD nodes" width="100%" />
+</p>
 
 ---
 
