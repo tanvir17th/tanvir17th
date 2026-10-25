@@ -17,7 +17,7 @@
 
 I am a Junior Software Quality Assurance Engineer with hands-on experience in manual, API, and web automation testing. I focus on building reliable software through thoughtful test planning, detailed defect reporting, and collaborative quality practices.
 
-- Currently working as a **Junior SQA Engineer at Luminar Technology**
+
 - Experienced in functional, regression, smoke, sanity, exploratory, and performance testing
 - Comfortable testing web applications, REST APIs, databases, and responsive user experiences
 - Interested in quality engineering, test automation, and continuous improvement
