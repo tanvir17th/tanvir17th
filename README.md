@@ -7,10 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Software+Quality+%26+Testing;API+Testing+with+Postman;Web+Automation+with+Playwright;Always+learning%2C+always+improving" alt="Animated introduction" />
 
 [![Email](https://img.shields.io/badge/Email-ahamedtanvir93%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahamedtanvir93@gmail.com)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-Website-111827?style=flat-square&logo=google-chrome&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanvir-ahamed-330158301/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanvir17th)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111827?style=flat-square&logo=google-chrome&logoColor=white)](https://tanvir-portfolio-topaz.vercel.app/)
 </div>
 
 ## About Me
